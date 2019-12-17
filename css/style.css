@@ -105,7 +105,7 @@ body{
 .Boxt{
 	width: 1200px;
 	margin: auto;
-	height: 1000px;
+	height: 2000px;
 	background: white;
 	clear: left;
 }
@@ -330,4 +330,26 @@ button:hover{
 	float: left;
 	padding: 5px 5px 5px 5px;
 }
-/*Kết thúc phần F*/
+/*Kết thúc khối F*/
+
+.G{
+	clear: left;
+	width: 1200px;
+	height: 280px;
+	border-bottom: 1px solid #ccc;
+}
+.G1{
+	clear: left;
+	float: left;
+	padding: 5px 5px 5px 20px;
+	
+}
+.G2{
+	float: left;
+	padding: 5px 5px 5px 20px;
+}
+.G3{
+	float: left;
+	padding: 5px 5px 5px 20px;
+}
+/*Kết thúc khối G F*/
