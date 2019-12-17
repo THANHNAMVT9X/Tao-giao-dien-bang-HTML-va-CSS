@@ -39,16 +39,15 @@ body{
 	color: white;
 }
 .D1 a h3{
-	background: url(../img/clock.png)no-repeat 235px;
+	background: url(../img/clock.png)no-repeat 320px;
 	font-size: 15px;
 	line-height: 50px;
 	margin-top: 5px;
-	margin-right: 130px;
+	margin-right: 60px;
 }
 .D1 a h5{
-
 	margin-top: -25px;
-	margin-right: 124px;
+	margin-right: 54px;
 }
 .D2 a{
 	text-align: center;
