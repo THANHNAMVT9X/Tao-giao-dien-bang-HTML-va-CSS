@@ -559,3 +559,257 @@ height: 40px
 	border-left: 1px solid #ccc;
 	border-right: 1px solid #ccc;
 }
+.L{
+	clear: left;
+	width: 1200px;
+	height: 310px;
+	
+	background: #ccc;
+}
+.L1{
+	clear: left;
+	width: 600px;
+	height: 300px;
+	float: left;
+	border-right: 1px solid #424242;
+}
+.L1 a{
+	text-decoration: none;
+	color: black;
+}
+.L1 h2{
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+}
+.L1 h4{
+	text-align: center;
+	color: #424242;
+}
+.L1 h3{
+	margin-top: -15px;
+	text-align: center;
+	color: red;
+}
+.L2{
+	width: 599px;
+	height: 300px;
+	float: left;
+}
+.L2 .L2a{
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+.L2 .L2a a{
+	text-decoration: none;
+	color: black;
+}
+.L2 .L2a h2{
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+}
+.L2 .L2a h4{
+	text-align: center;
+	color: #424242;
+}
+
+.search1{
+    width:70%;
+    float:left;
+    position:relative;
+
+}
+button.S2 {
+    border: none;
+    background: orange;
+    color: #fff;
+    height: 30px;
+    border-radius: 50px;
+    width: 80px;
+    position: absolute;
+    top: 30px;
+    left: 215px;
+    cursor: pointer;
+}
+input.S1{
+    margin-top:30px;
+    height:30px;
+    width:260px;
+    margin-left: 5px;
+    outline:0;
+    border:none;
+    background:#ececec;
+    padding-left:20px;
+    border-radius:50px;
+    box-sizing:border-box;
+
+}
+button:hover{
+    color:#f36a22;
+
+}
+
+
+.M{
+	margin: auto;
+	clear: left;
+	width: 1560px;
+	height: 600px;
+	background: white;
+}
+.M1{
+	padding: 5px 5px 5px 5px;
+	clear: left;
+	height: 160px;
+	border-bottom: 1px solid #ccc;
+}
+.M1 a{
+	text-decoration: none;
+	color: black;
+	margin-top: 50px;
+}
+.M1 a h1{
+
+	margin: 70px 0px 0px -550px;
+
+	text-align: center;
+}
+.M1 a img.fb{
+	margin-top: -60px;
+	margin-left: 650px;
+	float: left;
+}
+.M1 a img.tw{
+	margin-top: -68px;
+	margin-left: 40px;
+	float: left;
+}
+.M1 a img.gg{
+	margin-top: -63px;
+	margin-left: 850px;
+	float: left;
+}
+.M1 a img.db{
+	margin-top: -72px;
+	margin-left: 950px;
+	float: left;
+}
+.M1 a img.ma{
+	margin-top: -72px;
+	margin-left: 1050px;
+	float: left;
+}
+.M1 a img.youtobe{
+	margin-top: -64px;
+	margin-left: 1150px;
+	float: left;
+}
+.M2{
+	clear: left;
+}
+.M2t{
+	width: 1000px;
+	margin: auto;
+
+}
+.M2t .M2a a{
+	text-decoration: none;
+	color: black;
+
+}
+.M2t .M2b a{
+	text-decoration: none;
+	color: black;
+}
+.M2t .M2c a{
+	text-decoration: none;
+	color: black;
+}
+.M2t .M2d a{
+	text-decoration: none;
+	color: black;
+}
+.M2t .M2a h4{
+	color: #424242;
+	margin-left: 80px;
+}
+.M2t .M2b h4{
+	color: #424242;
+	margin-left: 40px;
+}
+.M2t .M2c h4{
+	color: #424242;
+	margin-left: 40px;
+}
+.M2t .M2d h4{
+	margin-left: 80px;
+	color: #424242;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.M2t .M2a h2{
+	margin-left: 80px;
+}
+.M2t .M2b h2{
+	margin-left: 40px;
+}
+.M2t .M2c h2{
+	margin-left: 40px;
+}
+.M2t .M2d h2{
+	margin-left: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+.M2 .M2a{
+	width: 250px;
+	float: left;
+}
+.M2 .M2b{
+	
+	width: 250px;
+	float: left;
+}
+.M2 .M2c{
+
+	width: 250px;
+	float: left;
+}
+.M2 .M2d{
+	
+	width: 250px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
