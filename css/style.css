@@ -263,3 +263,34 @@ button:hover{
 .C ul li#c4 a{
 	background: url(../img/xuong1.png)no-repeat 70px;
 }
+
+
+
+
+
+.E1{
+	clear: left;
+	float: left;
+	width: 900px
+	height:500px;
+}
+.E1 img {
+	width: 900px;
+	height: 500px;
+	padding: 5px 5px 5px 5px;
+}
+.E2{
+	float: left;
+	width: 280px;
+	height: 500px;
+}
+.E2 .E2a img {
+	width: 275;
+	height: 240px;
+	padding: 5px 5px 5px 5px;
+}
+.E2 .E2b img {
+	width: 280;
+	height: 245px;
+	padding: 5px 5px 5px 5px;
+}
