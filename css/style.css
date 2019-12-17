@@ -105,7 +105,7 @@ body{
 .Boxt{
 	width: 1200px;
 	margin: auto;
-	height: 2000px;
+	height: 3000px;
 	background: white;
 	clear: left;
 }
@@ -361,4 +361,111 @@ button:hover{
 .G3 a img:hover{
 	border-bottom: 5px solid cyan;
 }
-/*Kết thúc khối G F*/
+/*Kết thúc khối G*/
+
+
+.H{
+	width: 1200px;
+	height: 450px;
+	
+	clear: left;
+}
+.H .H1{
+	width: 1200px;
+	height: 40px;
+	border-bottom: 1px solid #ccc;
+}
+.H .H1 ul li{
+	list-style: none;
+	padding: 5px;
+}
+.H .H1 ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: time new roman;
+
+
+	margin-left: -25px;
+	
+	
+}
+.H .H1 ul li a:hover{
+	color: green;
+	border-bottom:  1px solid green;
+}
+.H2{
+	clear: left;
+}
+.H2a{
+	float: left;
+}
+.H2b{
+	float: left;
+}
+.H2c{
+	float: left;	
+}
+.H2d{
+	float: left;	
+}
+.H2a a img{
+	padding: 5px 5px 5px 20px;
+}
+.H2b a img{
+	padding: 5px 5px 5px 20px;
+}
+.H2c a img{
+	padding: 5px 5px 5px 20px;
+}
+.H2d a img{
+	padding: 5px 5px 5px 20px;
+}
+
+.H2a a img:hover{
+	border: 1px solid #ccc;
+}
+.H2b a img:hover{
+	border: 1px solid #ccc;
+}
+.H2c a img:hover{
+	border: 1px solid #ccc;
+}
+.H2d a img:hover{
+	border: 1px solid #ccc;
+}
+/*Kết thúc khối H*/
+
+
+.I{
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	clear: left;
+	width: 1200px;
+	height: 540px;
+}
+.I1{
+	float: left;
+
+}
+.I2{
+	float: left;
+}
+.I3{
+	float: left;
+}
+
+.I1 a img{
+	padding-left: 15px;
+}
+.I1 a img:hover{
+	border-bottom: 2px solid green;
+}
+.I2 a img:hover{
+	border-bottom: 2px solid green;
+}
+.I3 a img:hover{
+	border-bottom: 2px solid green;
+}
