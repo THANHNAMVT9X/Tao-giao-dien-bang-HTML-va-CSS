@@ -438,6 +438,7 @@ button:hover{
 
 
 .I{
+
 	border-top: 1px solid #ccc;
 
 	padding-top: 15px;
@@ -472,11 +473,12 @@ button:hover{
 /*Kết thúc khối I*/
 
 .K{
+	clear: left;
 	width: 1200px;
 	height: 410px;
 }
 .K .K1{
-	clear: right;
+clear: left;
 }
 .K .K1 ul{
 	margin: 0px;
@@ -501,8 +503,9 @@ button:hover{
 	border-right: none;
 }
 .K2{
-	height: 410px;
 	clear: left;
+	height: 412px;
+	
 	width: 1200px;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
