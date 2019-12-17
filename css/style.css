@@ -539,3 +539,23 @@ height: 40px
 	height: 390px;
 	padding: 10px 10px 10px 10px;
 }
+.K2a img:hover{
+	
+	border-right: 1px solid #ccc;
+}
+.K2b img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2c img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2d img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2e img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
