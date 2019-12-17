@@ -105,7 +105,7 @@ body{
 .Boxt{
 	width: 1200px;
 	margin: auto;
-	height: 3000px;
+	height: 2665px;
 	background: white;
 	clear: left;
 }
@@ -439,7 +439,7 @@ button:hover{
 
 .I{
 	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
+
 	padding-top: 15px;
 	padding-bottom: 15px;
 	clear: left;
@@ -468,4 +468,90 @@ button:hover{
 }
 .I3 a img:hover{
 	border-bottom: 2px solid green;
+}
+/*Kết thúc khối I*/
+
+.K{
+	width: 1200px;
+	height: 410px;
+}
+.K .K1{
+	clear: left;
+}
+.K .K1 ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.K .K1 ul li a{
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+	float: left;
+	padding-right: 20px;
+	padding-left: 15px;
+	border-right: 2px solid #ccc;
+	margin-bottom: 10px;
+}
+.K .K1 ul li a:hover{
+	color: red;
+
+}
+.K .K1 ul li:last-child a{
+	border-right: none;
+}
+.K2{
+	height: 410px;
+	clear: left;
+	width: 1200px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.K2a, .K2b, .K2c, .K2d, .K2e{
+	float: left;
+}
+.K2a img{
+	width: 205px;
+	height: 390px;
+	padding: 10px 10px 10px 40px;
+}
+.K2b img{
+	width: 205px;
+	height: 390px;
+	padding: 10px 10px 10px 10px;
+}
+.K2c img{
+	width: 205px;
+	height: 390px;
+	padding: 10px 10px 10px 10px;	
+}
+.K2d img{
+	width: 205px;
+	height: 390px;
+	padding: 10px 10px 10px 10px;
+}
+.K2e img{
+	width: 205px;
+	height: 390px;
+	padding: 10px 10px 10px 10px;
+}
+.K2a img:hover{
+	
+	border-right: 1px solid #ccc;
+}
+.K2b img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2c img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2d img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.K2e img:hover{
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
 }
