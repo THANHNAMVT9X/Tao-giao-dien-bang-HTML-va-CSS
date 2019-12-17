@@ -352,4 +352,13 @@ button:hover{
 	float: left;
 	padding: 5px 5px 5px 20px;
 }
+.G1 a img:hover{
+	border-bottom: 5px solid cyan;
+}
+.G2 a img:hover{
+	border-bottom:  5px solid cyan;
+}
+.G3 a img:hover{
+	border-bottom: 5px solid cyan;
+}
 /*Kết thúc khối G F*/
