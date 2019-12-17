@@ -102,7 +102,7 @@ body{
 
 
 
-.Box1{
+.Boxt{
 	width: 1200px;
 	margin: auto;
 	height: 1000px;
@@ -226,4 +226,40 @@ input{
 button:hover{
     color:#f36a22;
 
+}
+
+
+.C{
+	
+	width: 1200px;
+	height: 50px;
+	float: left;
+	border-bottom: 1px solid #ccc;
+	
+}
+.C ul li{
+	list-style: none;
+}
+.C ul li a{
+	font-size: 20px;
+	text-decoration: none;
+	float: left;
+	padding: 0px 20px 5px 5px;
+	color: black;
+}
+.C ul li a:hover{
+	color: #f36a22;
+}
+
+
+
+
+.C ul li#c1 a{
+	background: url(../img/xuong1.png)no-repeat 53px;
+}
+.C ul li#c2 a{
+	background: url(../img/xuong1.png)no-repeat 105px;
+}
+.C ul li#c4 a{
+	background: url(../img/xuong1.png)no-repeat 70px;
 }
