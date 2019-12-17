@@ -142,7 +142,12 @@ body{
 
 	
 }
+.A2 ul li a:hover{
+
+	color: #f36a22;
+}
 .A2 ul li a{
+	
 	color: black;
 	text-decoration: none;
 	padding: 0px 5px 0px 0px;
@@ -292,5 +297,36 @@ button:hover{
 .E2 .E2b img {
 	width: 280;
 	height: 245px;
+	padding: 5px 5px 5px 5px;
+}
+
+
+.F{
+	clear: left;
+	width: 1200px;
+	height: 172px;
+	background: white;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.F1{
+	float: left;
+	padding: 5px 10px 5px 20px;
+
+}
+.F2{
+	float: left;
+	padding: 5px 10px 10px 5px;
+}
+.F3{
+	float: left;
+	padding: 5px 10px 10px 5px;
+}
+.F4{
+	float: left;
+	padding: 5px 10px 10px 5px;
+}
+.F5{
+	float: left;
 	padding: 5px 5px 5px 5px;
 }
